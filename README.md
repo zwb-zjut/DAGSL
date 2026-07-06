@@ -1,0 +1,1 @@
+The DAGSL/data directory contains the optimized graph structures for each dataset, which can be directly used in any model that requires graph-structured inputs. The graph structure optimization code is currently being organized and will be released as soon as possible.
